@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="My_style1.css">
+</head>
+<body>
+ <p class="My_style1">I gope this paragraph is in my style!</p>
+</body>
+</html>

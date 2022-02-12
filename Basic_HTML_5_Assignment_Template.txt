@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ 
+     <link rel = "stylesheet" type = "text/css" href = "Basicc_CSS_2.css">
+</head>
+<body>
+<p>This is my HTML.5 Template.</p>
+<p>&hearts;</p>
+
+<ol>
+  <li>Carrots</li>
+  <li>Pineapples</li>
+  <li>Ham</li>
+  <li>Water</li>
+</ol>
+
+<ul>
+ <li>Countries</li>
+ <li>Continents</li>
+ <li>Territories</li>
+ <li>Cities</li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>CSS AND HTML</title>
+</head>
+<style>
+p={color:red;}
+<h1>this is red text</h1>
+</style>
+<body>
+ <h1>this is my div example</h1>
+<div style="color:orange">
+<h2>These should be orange</h2>
+<p>but I can't figure out why they are not</p>
+</div>
+<link rel="stylesheet" type="text/css" href="my_style.css">
+<p>hello!</p>
+<p>this is my example paragraph with rel attributes</p>
+</body>
+</html>
